@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>images</folder>
 	<filename>66.jpg</filename>
-	<path>D:\REPOSITORIES\object_detection_demo\data\images\test\66.jpg</path>
+	<path>D:\REPOSITORIES\object_detection_demo\data\images\66.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>banana</name>
+		<name>laptop</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>10</xmin>
-			<ymin>339</ymin>
-			<xmax>506</xmax>
-			<ymax>594</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>136</xmin>
-			<ymin>234</ymin>
-			<xmax>566</xmax>
-			<ymax>532</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>267</xmin>
+			<xmin>354</xmin>
 			<ymin>38</ymin>
-			<xmax>730</xmax>
-			<ymax>503</ymax>
+			<xmax>794</xmax>
+			<ymax>557</ymax>
 		</bndbox>
 	</object>
 </annotation>

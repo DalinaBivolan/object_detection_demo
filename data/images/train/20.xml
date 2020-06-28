@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>images</folder>
 	<filename>20.jpg</filename>
-	<path>D:\REPOSITORIES\object_detection_demo\data\images\train\20.jpg</path>
+	<path>D:\REPOSITORIES\object_detection_demo\data\images\20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,123 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>banana</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>71</xmin>
-			<ymin>214</ymin>
-			<xmax>363</xmax>
-			<ymax>414</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>269</xmin>
-			<ymin>18</ymin>
-			<xmax>457</xmax>
-			<ymax>351</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>657</xmin>
-			<ymin>227</ymin>
-			<xmax>782</xmax>
-			<ymax>486</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>494</xmin>
-			<ymin>313</ymin>
-			<xmax>653</xmax>
-			<ymax>436</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>572</xmin>
-			<ymin>464</ymin>
-			<xmax>800</xmax>
+			<xmin>4</xmin>
+			<ymin>8</ymin>
+			<xmax>792</xmax>
 			<ymax>597</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>198</xmin>
-			<ymin>329</ymin>
-			<xmax>486</xmax>
-			<ymax>495</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>243</xmin>
-			<ymin>383</ymin>
-			<xmax>536</xmax>
-			<ymax>572</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>467</xmin>
-			<ymin>7</ymin>
-			<xmax>624</xmax>
-			<ymax>176</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>650</xmin>
-			<ymin>3</ymin>
-			<xmax>797</xmax>
-			<ymax>243</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>319</ymin>
-			<xmax>177</xmax>
-			<ymax>538</ymax>
 		</bndbox>
 	</object>
 </annotation>

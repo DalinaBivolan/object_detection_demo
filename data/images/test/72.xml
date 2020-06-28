@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>images</folder>
 	<filename>72.jpg</filename>
-	<path>D:\REPOSITORIES\object_detection_demo\data\images\test\72.jpg</path>
+	<path>D:\REPOSITORIES\object_detection_demo\data\images\72.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,63 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>50</xmin>
-			<ymin>4</ymin>
-			<xmax>792</xmax>
-			<ymax>574</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>245</xmin>
-			<ymin>173</ymin>
-			<xmax>583</xmax>
-			<ymax>596</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
+		<name>dog</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>54</xmin>
-			<ymin>150</ymin>
-			<xmax>265</xmax>
+			<xmin>153</xmin>
+			<ymin>6</ymin>
+			<xmax>441</xmax>
 			<ymax>600</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>107</xmin>
-			<ymin>32</ymin>
-			<xmax>583</xmax>
-			<ymax>311</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>banana</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>508</xmin>
-			<ymin>171</ymin>
-			<xmax>674</xmax>
-			<ymax>589</ymax>
 		</bndbox>
 	</object>
 </annotation>

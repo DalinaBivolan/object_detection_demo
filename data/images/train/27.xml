@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>images</folder>
 	<filename>27.jpg</filename>
-	<path>D:\REPOSITORIES\object_detection_demo\data\images\train\27.jpg</path>
+	<path>D:\REPOSITORIES\object_detection_demo\data\images\27.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>banana</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>271</xmin>
-			<ymin>117</ymin>
-			<xmax>374</xmax>
-			<ymax>272</ymax>
+			<xmin>25</xmin>
+			<ymin>48</ymin>
+			<xmax>124</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>banana</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>331</xmin>
-			<ymin>224</ymin>
-			<xmax>451</xmax>
-			<ymax>315</ymax>
+			<xmin>196</xmin>
+			<ymin>55</ymin>
+			<xmax>265</xmax>
+			<ymax>129</ymax>
 		</bndbox>
 	</object>
 </annotation>
